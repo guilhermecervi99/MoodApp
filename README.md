@@ -3,7 +3,6 @@
 ![React](https://img.shields.io/badge/React-18.2.0-blue?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-4.4.5-purple?style=for-the-badge&logo=vite)
 ![Tailwind](https://img.shields.io/badge/Tailwind-3.3.0-cyan?style=for-the-badge&logo=tailwindcss)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ### Um aplicativo web para acompanhamento diário do humor e bem-estar emocional
 
@@ -202,7 +201,7 @@ O aplicativo é totalmente responsivo e otimizado para:
 
 ## 👥 Autor
 
-- **Guilherme Cervi Schwingel* - *Desenvolvimento inicial* - [seu-usuario](https://github.com/seu-usuario)
+- **Guilherme Cervi Schwingel** - *Desenvolvimento inicial* - [seu-usuario](https://github.com/seu-usuario)
 
 **Feito com ❤️ para ajudar pessoas a cuidarem melhor de sua saúde mental**
 
